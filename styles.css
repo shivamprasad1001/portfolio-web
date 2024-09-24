@@ -425,8 +425,8 @@ footer a{
     .hero{
         height: 100vh;
     }
-    .projects .projectContainer .projectBox .projectBox{
-        height: 8500pc;
+    .projects .projectContainer .projectBox{
+        height: 850pc;
     }
     .projects .projectContainer .projectBox .project{
         width: 90%;
