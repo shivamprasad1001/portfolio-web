@@ -316,7 +316,7 @@ a{
     background-color: rgb(64, 64, 64);
     text-align: center;
     margin: 20px;
-    float: left;
+    float: right;
 }
 .projects .projectContainer .projectBox .project .imgBox{
    width: 60%;
@@ -426,7 +426,7 @@ footer a{
         height: 100vh;
     }
     .projects .projectContainer .projectBox{
-        height: 850pc;
+        height: 100pc;
     }
     .projects .projectContainer .projectBox .project{
         width: 90%;
